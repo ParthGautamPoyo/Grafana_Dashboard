@@ -91,9 +91,16 @@ After ingestion, sample queries were run in InfluxDB to verify the data integrit
 
 # Dashboard Design
 **Images**
+---
 ![Screenshot from 2024-11-24 17-33-06](https://github.com/user-attachments/assets/aa463007-9ad9-42b3-abd3-4b6664c7fa85)
+![Screenshot from 2024-11-24 17-33-24](https://github.com/user-attachments/assets/ecb01277-ddff-4e6a-b812-33b26f2aca4d)
+![Screenshot from 2024-11-24 17-33-32](https://github.com/user-attachments/assets/5103ba34-30f4-4fec-9687-ccd214a2b5c7)
+![Screenshot from 2024-11-24 17-33-37](https://github.com/user-attachments/assets/7d141f86-c489-42bf-83b2-2cff6e17e2a8)
+---
 **Video**
+---
 [![Grafana Dashboard on Vehicle Sales Data](https://img.youtube.com/vi/x7Lw6onYAMg/0.jpg)](https://www.youtube.com/watch?v=x7Lw6onYAMg "Grafana Dashboard on Vehicle Sales Data")
+---
 
 ### **Key Questions Addressed**
 The Grafana dashboard was designed to answer the following insightful questions about the dataset:
