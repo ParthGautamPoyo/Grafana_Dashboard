@@ -1,12 +1,11 @@
 # Grafana_Dashboard
 
+# Project Overview
+This project focuses on creating a dynamic dashboard for vehicle sales and fleet management, providing insights on key metrics like vehicle condition, odometer readings, sales trends, and customer preferences. The dashboard visualizes real-time data, enabling businesses to monitor vehicle performance, identify market trends, and optimize inventory and pricing strategies. It helps managers make data-driven decisions to improve operational efficiency, enhance customer satisfaction, and respond swiftly to market fluctuations. The dashboard supports strategic planning for maintenance, sales, and marketing, maximizing business outcomes.
 **Project Contributors:**
 - Ishaan Khatter - PGDM (BDA), FORE School of Management
 - Om Wadhwa - PGDM (BDA), FORE School of Management
 - Parth Gautam - PGDM (BDA), FORE School of Management
-
-# Project Overview
-This project focuses on creating a dynamic dashboard for vehicle sales and fleet management, providing insights on key metrics like vehicle condition, odometer readings, sales trends, and customer preferences. The dashboard visualizes real-time data, enabling businesses to monitor vehicle performance, identify market trends, and optimize inventory and pricing strategies. It helps managers make data-driven decisions to improve operational efficiency, enhance customer satisfaction, and respond swiftly to market fluctuations. The dashboard supports strategic planning for maintenance, sales, and marketing, maximizing business outcomes.
 
 # Data Overview
 ### Source and Scope  
