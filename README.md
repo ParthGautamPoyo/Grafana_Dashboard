@@ -102,7 +102,7 @@ After ingestion, sample queries were run in InfluxDB to verify the data integrit
 [![Grafana Dashboard on Vehicle Sales Data](https://img.youtube.com/vi/x7Lw6onYAMg/0.jpg)](https://www.youtube.com/watch?v=x7Lw6onYAMg "Grafana Dashboard on Vehicle Sales Data")
 ---
 
-### **Key Questions Addressed**
+# Key Questions Addressed
 The Grafana dashboard was designed to answer the following insightful questions about the dataset:
 
 ---
